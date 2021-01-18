@@ -14,11 +14,11 @@
 template<class T>
 struct node
 {
-        T data;
-        node<T>* link;
+    T data;
+    node<T>* link;
 
-        node(node<T>* l = nullptr) : link(l) {}
-        node(const T& x, node<T>* l = nullptr) : data(x), link(l) {}
+    node(node<T>* l = nullptr) : link(l) {}
+    node(const T& x, node<T>* l = nullptr) : data(x), link(l) {}
 };
 
 template<class T>
