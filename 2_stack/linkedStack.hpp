@@ -1,5 +1,5 @@
 /*************************************************************************
- @Author: 刘名轩
+ @Author: 
  @Created Time : 2021年01月17日 星期日 18时46分51秒
  @File Name: linkedStack.hpp
  @Description:
